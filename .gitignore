@@ -1,4 +1,8 @@
 tmp/rodo.txt
+
 tmp/*
-*.xml
+
+
+tmt/*
+
 *.txt
